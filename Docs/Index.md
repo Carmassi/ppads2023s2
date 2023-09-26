@@ -1,7 +1,8 @@
 # Documentação
 
 ## Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](https://github.com/Antoni036/PPADS-Projeto/assets/67022366/e76da78b-0b49-41e4-9446-e2e1e499fa54)
+![Diagrama de Casos de Uso](https://github.com/Carmassi/ppads2023s2/assets/67022366/f4981713-b32b-4760-be5a-e71c6337db7f)
+
 
 ## Descrição dos Casos de Uso
 1.	Cup Manager cria campeonato.
