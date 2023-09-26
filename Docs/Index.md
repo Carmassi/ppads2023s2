@@ -26,5 +26,6 @@
 
 ### ![Pagina inicial baixa fidelidade](https://github.com/Carmassi/ppads2023s2/assets/66043198/ffb03d90-5db9-4cc2-b53e-62fcf9192305)
 
-### ![Pagina inicial baixa fidelidade](https://github.com/Carmassi/ppads2023s2/assets/66043198/ef6c6453-5dc6-467a-9346-d27862c75ad3)
+### ![Pagina de inscrição baixa fidelidade](https://github.com/Carmassi/ppads2023s2/assets/66043198/0866bea5-aada-4fa4-b128-133d557a65a0)
+
 
