@@ -16,3 +16,8 @@
 7.3	Cup Manager gerencia jogos  
 7.4	Cup Manager gerencia vencedores  
 8.	Sistema atualiza pagina principal com as alterações novas
+
+## Modelo de Classes de Domínio
+
+![diagrama de classes de dominio](https://github.com/Carmassi/ppads2023s2/assets/67022366/5d759408-2ef4-4fde-9dce-447787a649ab)
+
