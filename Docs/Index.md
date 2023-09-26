@@ -22,3 +22,9 @@
 
 ![diagrama de classes de dominio](https://github.com/Carmassi/ppads2023s2/assets/67022366/5d759408-2ef4-4fde-9dce-447787a649ab)
 
+## Modelo de baixa fidelidade
+
+### ![Pagina inicial baixa fidelidade](https://github.com/Carmassi/ppads2023s2/assets/66043198/ffb03d90-5db9-4cc2-b53e-62fcf9192305)
+
+### ![Pagina inicial baixa fidelidade](https://github.com/Carmassi/ppads2023s2/assets/66043198/ef6c6453-5dc6-467a-9346-d27862c75ad3)
+
