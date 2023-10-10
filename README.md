@@ -1,4 +1,4 @@
-# Projeto 
+# GRUPO 4
 
 Tema do Projeto: Gerenciador de Campeonatos da Escola “ChuteSal”
 
